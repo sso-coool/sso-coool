@@ -1,9 +1,9 @@
 ## Hi there 👋
 I like coding.
-My side projects:
-Remium Serverside (https://remium.wtf)
-Roblox Development
-DABR - Defense Against Backdoors of Roblox
+⭐ My side projects:
+- Remium Serverside (https://remium.wtf)
+- Roblox Development
+- DABR - Defense Against Backdoors of Roblox
 <!--
 **sso-coool/sso-coool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
